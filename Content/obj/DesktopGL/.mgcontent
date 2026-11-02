@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/../../../../Downloads/Ass 8 - Tower Defense/idle_elf.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/Arrow.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/attack_knight1.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/attack_org1.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/attack_org2.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/die_knight1.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/die_org1.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/die_org2.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/Dungeon_background.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/elf_attack.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/elf_blue_energy_ball.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/File.spritefont</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/hurt_knight1.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/hurt_org1.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/hurt_org2.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/Ice_Background.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/idle_elf.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/Lava_Background.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/run_org2.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/Tower.png</File>
+    <File>C:/Users/kalas/source/repos/CastleDefence/Content/walk_org1.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>idle_elf.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

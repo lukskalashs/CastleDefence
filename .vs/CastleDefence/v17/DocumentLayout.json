@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\greytroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:greytroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\floatingtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:floatingtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\energyball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:energyball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\enemykind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:enemykind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\elfmage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:elfmage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\defencestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:defencestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\defencekind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:defencekind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\defence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:defence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\arrowtower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:arrowtower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\stagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:stagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\shopbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:shopbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\ogre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:ogre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\maplayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:maplayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\stageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:stageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\spawnitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:spawnitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|c:\\users\\kalas\\source\\repos\\castledefence\\placementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A15E6E8-A02D-4F56-ABEF-E7941671C528}|CastleDefence.csproj|solutionrelative:placementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAowGgBAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T20:53:27.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FloatingText.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\FloatingText.cs",
+              "RelativeDocumentMoniker": "FloatingText.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\FloatingText.cs",
+              "RelativeToolTip": "FloatingText.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:44:07.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StageManager.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\StageManager.cs",
+              "RelativeDocumentMoniker": "StageManager.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\StageManager.cs",
+              "RelativeToolTip": "StageManager.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:35:51.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShopButton.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\ShopButton.cs",
+              "RelativeDocumentMoniker": "ShopButton.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\ShopButton.cs",
+              "RelativeToolTip": "ShopButton.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:34:30.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Arrow.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Arrow.cs",
+              "RelativeDocumentMoniker": "Arrow.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Arrow.cs",
+              "RelativeToolTip": "Arrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:33:16.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnergyBall.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\EnergyBall.cs",
+              "RelativeDocumentMoniker": "EnergyBall.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\EnergyBall.cs",
+              "RelativeToolTip": "EnergyBall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:31:43.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Projectile.cs",
+              "RelativeDocumentMoniker": "Projectile.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Projectile.cs",
+              "RelativeToolTip": "Projectile.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:30:15.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GreyTroll.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\GreyTroll.cs",
+              "RelativeDocumentMoniker": "GreyTroll.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\GreyTroll.cs",
+              "RelativeToolTip": "GreyTroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:29:18.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Ogre.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Ogre.cs",
+              "RelativeDocumentMoniker": "Ogre.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Ogre.cs",
+              "RelativeToolTip": "Ogre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:28:17.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ArrowTower.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\ArrowTower.cs",
+              "RelativeDocumentMoniker": "ArrowTower.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\ArrowTower.cs",
+              "RelativeToolTip": "ArrowTower.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwE8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:25:38.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ElfMage.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\ElfMage.cs",
+              "RelativeDocumentMoniker": "ElfMage.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\ElfMage.cs",
+              "RelativeToolTip": "ElfMage.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAWwGAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:23:55.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Enemy.cs",
+              "RelativeDocumentMoniker": "Enemy.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Enemy.cs",
+              "RelativeToolTip": "Enemy.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAqwOcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:22:43.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Knight.cs",
+              "RelativeDocumentMoniker": "Knight.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Knight.cs",
+              "RelativeToolTip": "Knight.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAMwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:17:31.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Defence.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Defence.cs",
+              "RelativeDocumentMoniker": "Defence.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Defence.cs",
+              "RelativeToolTip": "Defence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:13:15.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Grid.cs",
+              "RelativeDocumentMoniker": "Grid.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Grid.cs",
+              "RelativeToolTip": "Grid.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAmwCwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:11:15.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Animation.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Animation.cs",
+              "RelativeDocumentMoniker": "Animation.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\Animation.cs",
+              "RelativeToolTip": "Animation.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwF0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:09:34.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\GameState.cs",
+              "RelativeDocumentMoniker": "GameState.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\GameState.cs",
+              "RelativeToolTip": "GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T20:52:42.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MapLayout.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\MapLayout.cs",
+              "RelativeDocumentMoniker": "MapLayout.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\MapLayout.cs",
+              "RelativeToolTip": "MapLayout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T20:35:01.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StageInfo.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\StageInfo.cs",
+              "RelativeDocumentMoniker": "StageInfo.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\StageInfo.cs",
+              "RelativeToolTip": "StageInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T20:34:29.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SpawnItem.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\SpawnItem.cs",
+              "RelativeDocumentMoniker": "SpawnItem.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\SpawnItem.cs",
+              "RelativeToolTip": "SpawnItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T20:33:35.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyStats.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\EnemyStats.cs",
+              "RelativeDocumentMoniker": "EnemyStats.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\EnemyStats.cs",
+              "RelativeToolTip": "EnemyStats.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA2wCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T20:32:20.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DefenceStats.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\DefenceStats.cs",
+              "RelativeDocumentMoniker": "DefenceStats.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\DefenceStats.cs",
+              "RelativeToolTip": "DefenceStats.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T20:30:41.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyKind.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\EnemyKind.cs",
+              "RelativeDocumentMoniker": "EnemyKind.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\EnemyKind.cs",
+              "RelativeToolTip": "EnemyKind.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T20:29:21.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DefenceKind.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\DefenceKind.cs",
+              "RelativeDocumentMoniker": "DefenceKind.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\DefenceKind.cs",
+              "RelativeToolTip": "DefenceKind.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T20:28:19.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlacementType.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\PlacementType.cs",
+              "RelativeDocumentMoniker": "PlacementType.cs",
+              "ToolTip": "C:\\Users\\kalas\\source\\repos\\CastleDefence\\PlacementType.cs",
+              "RelativeToolTip": "PlacementType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T20:27:33.054Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
